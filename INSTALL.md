@@ -12,7 +12,7 @@ Easily install from [dracula/homebrew-install](https://github.com/dracula/homebr
 
 ``` sh
 brew tap dracula/install
-brew install --cask dracula-terminal
+brew install --cask dracula-terminal --no-quarantine
 ```
 
 #### Install manually
